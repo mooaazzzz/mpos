@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MPOS_BQ</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+
+    <string name="error_please_enter_password">Enter password</string>
+    <string name="error_enter_full_name">Enter full name</string>
+
+    <string name="error_network_fail">Network Error. There was a problem connecting to the server.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="network_error">Network error</string>
+    <string name="slots">Slots</string>
+    <string name="no_of_tickets">No. of Tickets</string>
+    <string name="phone">Phone</string>
+    <string name="print">Print</string>
+    <string name="ticketing_partner">Ticketing Partner</string>
+    <string name="name">Name</string>
+    <string name="activity">Activity:</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="error">Something went wrong. Please try again later.</string>
+    <string name="payment">Payment</string>
+    <string name="day_end_closing">Day-End Closing</string>
+    <string name="day_end_closing_info">Day-End Closing Info</string>
+    <string name="petty_cash">Petty Cash</string>
+    <string name="today_cash_amount">Today Cash Amount</string>
+    <string name="total_card_amount">Total Credit Card Amount</string>
+    <string name="update_info">Submit</string>
+    <string name="total_debit_amount">Total Debit Card Amount</string>
+    <string name="reprint">Reprint</string>
+    <string name="logout">Logout</string>
+    <string name="_0">0</string>
+    <string name="search_you_can">Search</string>
+    <string name="you_can_search_by_barcode_or_email_or_phone_or_name">(you can search by Barcode, Email, Phone, Name)</string>
+    <string name="success">Success</string>
+    <string name="date">Date</string>
+    <string name="email">Email</string>
+    <string name="select_option">Select Option</string>
+    <string name="camera">Camera</string>
+    <string name="cash_deposit">Cash deposit</string>
+    <string name="swipe_left_to_remove_item">Swipe left to remove item</string>
+    <string name="select_activity_str">Select activity</string>
+</resources>
